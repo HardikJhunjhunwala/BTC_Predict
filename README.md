@@ -19,4 +19,4 @@ Open `btc_predict/config.py` and edit the `Config` class:
 
 Set **`run_epoch_sweep`** to `False` if you only want the single run with `torch_epochs` and no sweep
 
-*Download the dataset from below kaggle link and place into the data/raw/ directory https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+*Download the dataset from below kaggle link and place into a data/raw/ (need to create this in the home directory) directory https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
