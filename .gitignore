@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+outputs/
+*.joblib
+.DS_Store
+data/raw/btcusd_1-min_data.csv
